@@ -435,9 +435,9 @@ CURSOS:
 - Coursera: Cryptography (Stanford University)
 - edX: Introduction to Cryptography
 
-===============================================================================
+=================
 🎯 CONCLUSÃO
-===============================================================================
+=================
 
 O RSA continua sendo um dos algoritmos de criptografia mais importantes e 
 amplamente utilizados. Sua segurança baseia-se em um problema matemático 
@@ -455,6 +455,6 @@ Execute os testes, experimente com diferentes tamanhos de chave, e explore
 como este algoritmo fundamental protege a maior parte da comunicação digital 
 moderna!
 
-===============================================================================
+=============
 FIM DO GUIA
-===============================================================================
+============
