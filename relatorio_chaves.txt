@@ -1,0 +1,15 @@
+RELATÓRIO DE CHAVES RSA
+========================================
+Tamanho da chave: 2048 bits
+Expoente público (e): 65537
+Módulo (n): 21747509393244417363116701145717488516987014339415... (truncado)
+Timestamp: 26/05/2025 07:33:30
+
+CAPACIDADES:
+- Tamanho máximo de mensagem: ~214 bytes
+- Criptografia: Sim
+- Assinatura digital: Sim
+- Padding: OAEP (criptografia), PSS (assinatura)
+
+NÍVEL DE SEGURANÇA: Alto
+========================================

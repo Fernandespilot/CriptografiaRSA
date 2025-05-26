@@ -1,0 +1,88 @@
+===============================================================================
+🚀 COMANDOS RÁPIDOS - SISTEMA RSA
+===============================================================================
+
+📋 SEQUÊNCIA DE COMANDOS PARA EXECUTAR TODOS OS TESTES:
+===============================================================================
+
+1️⃣ PREPARAÇÃO INICIAL:
+----------------------
+cd "c:\Users\FabLab Maker\CriptografiaRSA"
+python -m pip install -r requirements.txt
+
+2️⃣ TESTE PRINCIPAL (MENU INTERATIVO):
+-------------------------------------
+python main.py
+
+Opções do menu:
+- 1: RSA Básico (educacional)
+- 2: RSA Avançado (produção) 
+- 3: Comunicação Segura
+- 4: Interface Gráfica
+- 5: Benchmark de Performance
+- 6: Relatório de Chaves
+- 7: Executar TODOS os exemplos (RECOMENDADO)
+- 8: Limpar arquivos temporários
+- 0: Sair
+
+3️⃣ COMANDOS INDIVIDUAIS:
+-----------------------
+python rsa_basico.py                    # RSA educacional
+python rsa_avancado.py                  # RSA produção
+python exemplos/exemplo_basico.py       # Exemplos completos
+python exemplos/comunicacao_segura.py   # Comunicação segura
+python rsa_gui.py                       # Interface gráfica
+
+4️⃣ VERIFICAÇÃO RÁPIDA:
+----------------------
+python -c "import cryptography; print('✅ Dependências OK')"
+
+===============================================================================
+⚡ TESTE COMPLETO EM 3 COMANDOS:
+===============================================================================
+
+1. cd "c:\Users\FabLab Maker\CriptografiaRSA"
+2. python -m pip install -r requirements.txt  
+3. python main.py
+
+Depois digite "7" para executar todos os exemplos automaticamente!
+
+===============================================================================
+🔍 O QUE VOCÊ VERÁ NOS TESTES:
+===============================================================================
+
+✅ Geração de chaves RSA (diferentes tamanhos)
+✅ Criptografia e descriptografia de mensagens
+✅ Assinatura digital
+✅ Verificação de integridade
+✅ Benchmark de performance
+✅ Interface gráfica funcional
+✅ Simulação de comunicação segura
+
+===============================================================================
+⏱️ TEMPO ESTIMADO:
+===============================================================================
+
+- Instalação: 1-2 minutos
+- Teste individual: 10-30 segundos cada
+- Teste completo (opção 7): 2-3 minutos
+- Interface gráfica: Interativo (quanto quiser)
+
+===============================================================================
+📊 RESULTADOS ESPERADOS:
+===============================================================================
+
+CHAVES GERADAS:
+- RSA básico: ~1024 bits (educacional)
+- RSA avançado: 2048-4096 bits (segurança real)
+
+PERFORMANCE:
+- Geração de chaves 2048 bits: 0.1-2 segundos
+- Criptografia: < 0.001 segundos
+- Descriptografia: 0.001-0.01 segundos
+
+SEGURANÇA:
+- RSA-2048: ~10^15 anos para quebrar (computador comum)
+- RSA-4096: Praticamente inquebráveI
+
+===============================================================================
