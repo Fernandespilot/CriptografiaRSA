@@ -43,24 +43,23 @@ python rsa_gui.py
 
 
 
-======================================
+
 🔐 GUIA COMPLETO: SISTEMA DE CRIPTOGRAFIA RSA
-=====================================
+
 Data: 25 de maio de 2025
 Autor: Sistema RSA Automático
-===================================
+
 
 📋 ÍNDICE
-===================================
+
 1. COMANDOS PARA EXECUTAR OS TESTES
 2. COMO FUNCIONA O ALGORITMO RSA
 3. ANÁLISE DE SEGURANÇA E TEMPO DE QUEBRA
 4. EXEMPLOS PRÁTICOS DE USO
 5. TROUBLESHOOTING E DICAS
 
-===============================================================================
+
 1. COMANDOS PARA EXECUTAR OS TESTES
-===============================================================================
 
 🔧 PREPARAÇÃO INICIAL:
 ----------------------
@@ -118,9 +117,9 @@ Se tudo está funcionando, você deve ver:
 - Verificação de assinatura digital
 - Tempos de execução dos processos
 
-===============================================================================
+=
 2. COMO FUNCIONA O ALGORITMO RSA
-===============================================================================
+
 
 🧮 FUNDAMENTOS MATEMÁTICOS:
 ---------------------------
@@ -193,9 +192,9 @@ Se um atacante conseguir fatorar n em p e q, ele pode:
 2. Calcular d (chave privada)
 3. Quebrar toda a criptografia
 
-===============================================================================
+
 3. ANÁLISE DE SEGURANÇA E TEMPO DE QUEBRA
-===============================================================================
+
 
 ⏱️ TEMPO PARA QUEBRAR RSA COM COMPUTADORES COMUNS:
 --------------------------------------------------
@@ -295,9 +294,8 @@ O tempo para quebrar RSA cresce EXPONENCIALMENTE com o tamanho da chave:
 
 Por isso RSA-2048 é trilhões de trilhões de vezes mais seguro que RSA-1024!
 
-===============================================================================
+
 4. EXEMPLOS PRÁTICOS DE USO
-===============================================================================
 
 🌐 ONDE O RSA É USADO NO MUNDO REAL:
 ------------------------------------
@@ -341,9 +339,9 @@ Advogado quer assinar contrato digitalmente:
 3. Qualquer pessoa pode verificar com a chave pública do advogado
 4. Se documento for alterado, hash muda e assinatura fica inválida
 
-===============================================================================
+
 5. TROUBLESHOOTING E DICAS
-===============================================================================
+
 
 ❌ PROBLEMAS COMUNS E SOLUÇÕES:
 ------------------------------
@@ -415,9 +413,9 @@ EMBARCADO/IoT:
 5. ATUALIZE regularmente suas bibliotecas criptográficas
 6. CONSIDERE migração para criptografia pós-quântica
 
-===============================================================================
+
 📚 RECURSOS ADICIONAIS
-===============================================================================
+
 
 LIVROS RECOMENDADOS:
 - "Applied Cryptography" - Bruce Schneier
